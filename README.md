@@ -1,0 +1,1 @@
+Projet réalisé dans le cadre de ma formation à l'ENSAE Paris, sous l'encadrement de M.KERMORVANT et M.HERANVAL.
